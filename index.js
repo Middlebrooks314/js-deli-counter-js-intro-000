@@ -10,5 +10,5 @@ function nowServing (katzDeliLine) {
   else katzDeliLine.pop();
   
   
-  return katzDeliLine
+  return `Currently serving ${katzDeliLine} 
 }
